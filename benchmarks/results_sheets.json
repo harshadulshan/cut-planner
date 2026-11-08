@@ -1,0 +1,5007 @@
+{
+"instances": [
+{
+"name": "CLASS01_020_01",
+"class": 1,
+"items": 20,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_020_02",
+"class": 1,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 0.13,
+"valid": true
+},
+{
+"name": "CLASS01_020_03",
+"class": 1,
+"items": 20,
+"sheets": 9,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_020_04",
+"class": 1,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_020_05",
+"class": 1,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 7,
+"seconds": 0.16,
+"valid": true
+},
+{
+"name": "CLASS01_020_06",
+"class": 1,
+"items": 20,
+"sheets": 9,
+"bound": 8,
+"shelf": 10,
+"seconds": 5.53,
+"valid": true
+},
+{
+"name": "CLASS01_020_07",
+"class": 1,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 6,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS01_020_08",
+"class": 1,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 7,
+"seconds": 2.99,
+"valid": true
+},
+{
+"name": "CLASS01_020_09",
+"class": 1,
+"items": 20,
+"sheets": 8,
+"bound": 7,
+"shelf": 9,
+"seconds": 5.86,
+"valid": true
+},
+{
+"name": "CLASS01_020_10",
+"class": 1,
+"items": 20,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 5.53,
+"valid": true
+},
+{
+"name": "CLASS01_040_01",
+"class": 1,
+"items": 40,
+"sheets": 10,
+"bound": 9,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_02",
+"class": 1,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_03",
+"class": 1,
+"items": 40,
+"sheets": 17,
+"bound": 14,
+"shelf": 17,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_04",
+"class": 1,
+"items": 40,
+"sheets": 14,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_05",
+"class": 1,
+"items": 40,
+"sheets": 15,
+"bound": 14,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_06",
+"class": 1,
+"items": 40,
+"sheets": 14,
+"bound": 11,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_07",
+"class": 1,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_08",
+"class": 1,
+"items": 40,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_040_09",
+"class": 1,
+"items": 40,
+"sheets": 11,
+"bound": 11,
+"shelf": 12,
+"seconds": 0.58,
+"valid": true
+},
+{
+"name": "CLASS01_040_10",
+"class": 1,
+"items": 40,
+"sheets": 11,
+"bound": 11,
+"shelf": 12,
+"seconds": 5.64,
+"valid": true
+},
+{
+"name": "CLASS01_060_01",
+"class": 1,
+"items": 60,
+"sheets": 23,
+"bound": 21,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_02",
+"class": 1,
+"items": 60,
+"sheets": 19,
+"bound": 18,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_03",
+"class": 1,
+"items": 60,
+"sheets": 21,
+"bound": 19,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_04",
+"class": 1,
+"items": 60,
+"sheets": 22,
+"bound": 19,
+"shelf": 22,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_05",
+"class": 1,
+"items": 60,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_06",
+"class": 1,
+"items": 60,
+"sheets": 18,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_07",
+"class": 1,
+"items": 60,
+"sheets": 16,
+"bound": 15,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_08",
+"class": 1,
+"items": 60,
+"sheets": 21,
+"bound": 19,
+"shelf": 22,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_060_09",
+"class": 1,
+"items": 60,
+"sheets": 18,
+"bound": 18,
+"shelf": 19,
+"seconds": 2.05,
+"valid": true
+},
+{
+"name": "CLASS01_060_10",
+"class": 1,
+"items": 60,
+"sheets": 24,
+"bound": 22,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_080_01",
+"class": 1,
+"items": 80,
+"sheets": 25,
+"bound": 23,
+"shelf": 26,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_080_02",
+"class": 1,
+"items": 80,
+"sheets": 26,
+"bound": 25,
+"shelf": 27,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_080_03",
+"class": 1,
+"items": 80,
+"sheets": 27,
+"bound": 24,
+"shelf": 27,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_080_04",
+"class": 1,
+"items": 80,
+"sheets": 27,
+"bound": 25,
+"shelf": 27,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_080_05",
+"class": 1,
+"items": 80,
+"sheets": 26,
+"bound": 24,
+"shelf": 27,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_080_06",
+"class": 1,
+"items": 80,
+"sheets": 29,
+"bound": 26,
+"shelf": 30,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_080_07",
+"class": 1,
+"items": 80,
+"sheets": 31,
+"bound": 27,
+"shelf": 32,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_080_08",
+"class": 1,
+"items": 80,
+"sheets": 29,
+"bound": 27,
+"shelf": 29,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_080_09",
+"class": 1,
+"items": 80,
+"sheets": 30,
+"bound": 28,
+"shelf": 31,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_080_10",
+"class": 1,
+"items": 80,
+"sheets": 26,
+"bound": 25,
+"shelf": 27,
+"seconds": 9.97,
+"valid": true
+},
+{
+"name": "CLASS01_100_01",
+"class": 1,
+"items": 100,
+"sheets": 28,
+"bound": 28,
+"shelf": 29,
+"seconds": 6.57,
+"valid": true
+},
+{
+"name": "CLASS01_100_02",
+"class": 1,
+"items": 100,
+"sheets": 32,
+"bound": 31,
+"shelf": 33,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_100_03",
+"class": 1,
+"items": 100,
+"sheets": 29,
+"bound": 27,
+"shelf": 30,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_100_04",
+"class": 1,
+"items": 100,
+"sheets": 30,
+"bound": 29,
+"shelf": 31,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_100_05",
+"class": 1,
+"items": 100,
+"sheets": 32,
+"bound": 31,
+"shelf": 34,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_100_06",
+"class": 1,
+"items": 100,
+"sheets": 37,
+"bound": 34,
+"shelf": 37,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_100_07",
+"class": 1,
+"items": 100,
+"sheets": 29,
+"bound": 28,
+"shelf": 29,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_100_08",
+"class": 1,
+"items": 100,
+"sheets": 34,
+"bound": 32,
+"shelf": 34,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS01_100_09",
+"class": 1,
+"items": 100,
+"sheets": 32,
+"bound": 30,
+"shelf": 32,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS01_100_10",
+"class": 1,
+"items": 100,
+"sheets": 38,
+"bound": 35,
+"shelf": 39,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_020_01",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_02",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_03",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_04",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_05",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_06",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_07",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_08",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_09",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_020_10",
+"class": 2,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS02_040_01",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 6.71,
+"valid": true
+},
+{
+"name": "CLASS02_040_02",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_03",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_04",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_05",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_06",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_07",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_08",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_09",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_040_10",
+"class": 2,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_01",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_02",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_03",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_04",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_060_05",
+"class": 2,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_06",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_07",
+"class": 2,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_08",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_060_09",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 9.93,
+"valid": true
+},
+{
+"name": "CLASS02_060_10",
+"class": 2,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_01",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_02",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_03",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_04",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_05",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_06",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_07",
+"class": 2,
+"items": 80,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_08",
+"class": 2,
+"items": 80,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_080_09",
+"class": 2,
+"items": 80,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_080_10",
+"class": 2,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_01",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_02",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_03",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS02_100_04",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_05",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_06",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_07",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_08",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_09",
+"class": 2,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS02_100_10",
+"class": 2,
+"items": 100,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS03_020_01",
+"class": 3,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_02",
+"class": 3,
+"items": 20,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 8.11,
+"valid": true
+},
+{
+"name": "CLASS03_020_03",
+"class": 3,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_04",
+"class": 3,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_05",
+"class": 3,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_06",
+"class": 3,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_07",
+"class": 3,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_020_08",
+"class": 3,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS03_020_09",
+"class": 3,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 1.98,
+"valid": true
+},
+{
+"name": "CLASS03_020_10",
+"class": 3,
+"items": 20,
+"sheets": 7,
+"bound": 5,
+"shelf": 7,
+"seconds": 6.26,
+"valid": true
+},
+{
+"name": "CLASS03_040_01",
+"class": 3,
+"items": 40,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS03_040_02",
+"class": 3,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_03",
+"class": 3,
+"items": 40,
+"sheets": 11,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_04",
+"class": 3,
+"items": 40,
+"sheets": 10,
+"bound": 9,
+"shelf": 10,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS03_040_05",
+"class": 3,
+"items": 40,
+"sheets": 12,
+"bound": 10,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_06",
+"class": 3,
+"items": 40,
+"sheets": 10,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_07",
+"class": 3,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_08",
+"class": 3,
+"items": 40,
+"sheets": 13,
+"bound": 11,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_09",
+"class": 3,
+"items": 40,
+"sheets": 8,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_040_10",
+"class": 3,
+"items": 40,
+"sheets": 8,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_01",
+"class": 3,
+"items": 60,
+"sheets": 17,
+"bound": 15,
+"shelf": 17,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_02",
+"class": 3,
+"items": 60,
+"sheets": 13,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_03",
+"class": 3,
+"items": 60,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_04",
+"class": 3,
+"items": 60,
+"sheets": 16,
+"bound": 13,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_05",
+"class": 3,
+"items": 60,
+"sheets": 13,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS03_060_06",
+"class": 3,
+"items": 60,
+"sheets": 13,
+"bound": 12,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_07",
+"class": 3,
+"items": 60,
+"sheets": 12,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_08",
+"class": 3,
+"items": 60,
+"sheets": 16,
+"bound": 14,
+"shelf": 17,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_09",
+"class": 3,
+"items": 60,
+"sheets": 14,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_060_10",
+"class": 3,
+"items": 60,
+"sheets": 18,
+"bound": 15,
+"shelf": 18,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_01",
+"class": 3,
+"items": 80,
+"sheets": 19,
+"bound": 16,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_02",
+"class": 3,
+"items": 80,
+"sheets": 19,
+"bound": 16,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_03",
+"class": 3,
+"items": 80,
+"sheets": 19,
+"bound": 16,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_04",
+"class": 3,
+"items": 80,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_05",
+"class": 3,
+"items": 80,
+"sheets": 18,
+"bound": 16,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_06",
+"class": 3,
+"items": 80,
+"sheets": 21,
+"bound": 18,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_07",
+"class": 3,
+"items": 80,
+"sheets": 22,
+"bound": 19,
+"shelf": 22,
+"seconds": 9.99,
+"valid": true
+},
+{
+"name": "CLASS03_080_08",
+"class": 3,
+"items": 80,
+"sheets": 22,
+"bound": 19,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_09",
+"class": 3,
+"items": 80,
+"sheets": 23,
+"bound": 19,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_080_10",
+"class": 3,
+"items": 80,
+"sheets": 20,
+"bound": 17,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_01",
+"class": 3,
+"items": 100,
+"sheets": 20,
+"bound": 18,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_02",
+"class": 3,
+"items": 100,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_03",
+"class": 3,
+"items": 100,
+"sheets": 21,
+"bound": 18,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_04",
+"class": 3,
+"items": 100,
+"sheets": 22,
+"bound": 20,
+"shelf": 22,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_05",
+"class": 3,
+"items": 100,
+"sheets": 24,
+"bound": 21,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_06",
+"class": 3,
+"items": 100,
+"sheets": 27,
+"bound": 23,
+"shelf": 27,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_07",
+"class": 3,
+"items": 100,
+"sheets": 22,
+"bound": 19,
+"shelf": 22,
+"seconds": 9.99,
+"valid": true
+},
+{
+"name": "CLASS03_100_08",
+"class": 3,
+"items": 100,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_09",
+"class": 3,
+"items": 100,
+"sheets": 23,
+"bound": 20,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS03_100_10",
+"class": 3,
+"items": 100,
+"sheets": 30,
+"bound": 26,
+"shelf": 30,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_01",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_02",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_03",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_04",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_05",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_06",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_07",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_08",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_09",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_020_10",
+"class": 4,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS04_040_01",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 5.77,
+"valid": true
+},
+{
+"name": "CLASS04_040_02",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_03",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_04",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_05",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_06",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_07",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_08",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_09",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_040_10",
+"class": 4,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_01",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_02",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS04_060_03",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 8.82,
+"valid": true
+},
+{
+"name": "CLASS04_060_04",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 8.5,
+"valid": true
+},
+{
+"name": "CLASS04_060_05",
+"class": 4,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_06",
+"class": 4,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_07",
+"class": 4,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_08",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_060_09",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS04_060_10",
+"class": 4,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_080_01",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS04_080_02",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_080_03",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS04_080_04",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_080_05",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_080_06",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS04_080_07",
+"class": 4,
+"items": 80,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 7.84,
+"valid": true
+},
+{
+"name": "CLASS04_080_08",
+"class": 4,
+"items": 80,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS04_080_09",
+"class": 4,
+"items": 80,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 8.05,
+"valid": true
+},
+{
+"name": "CLASS04_080_10",
+"class": 4,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS04_100_01",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 8.24,
+"valid": true
+},
+{
+"name": "CLASS04_100_02",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.04,
+"valid": true
+},
+{
+"name": "CLASS04_100_03",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 7.65,
+"valid": true
+},
+{
+"name": "CLASS04_100_04",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.03,
+"valid": true
+},
+{
+"name": "CLASS04_100_05",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.03,
+"valid": true
+},
+{
+"name": "CLASS04_100_06",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.03,
+"valid": true
+},
+{
+"name": "CLASS04_100_07",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 7.55,
+"valid": true
+},
+{
+"name": "CLASS04_100_08",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS04_100_09",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS04_100_10",
+"class": 4,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS05_020_01",
+"class": 5,
+"items": 20,
+"sheets": 8,
+"bound": 6,
+"shelf": 8,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_020_02",
+"class": 5,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 5.61,
+"valid": true
+},
+{
+"name": "CLASS05_020_03",
+"class": 5,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 6.13,
+"valid": true
+},
+{
+"name": "CLASS05_020_04",
+"class": 5,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 5,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS05_020_05",
+"class": 5,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 1.16,
+"valid": true
+},
+{
+"name": "CLASS05_020_06",
+"class": 5,
+"items": 20,
+"sheets": 9,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_020_07",
+"class": 5,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 5.63,
+"valid": true
+},
+{
+"name": "CLASS05_020_08",
+"class": 5,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 9.73,
+"valid": true
+},
+{
+"name": "CLASS05_020_09",
+"class": 5,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 8,
+"seconds": 7.72,
+"valid": true
+},
+{
+"name": "CLASS05_020_10",
+"class": 5,
+"items": 20,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 5.62,
+"valid": true
+},
+{
+"name": "CLASS05_040_01",
+"class": 5,
+"items": 40,
+"sheets": 9,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_040_02",
+"class": 5,
+"items": 40,
+"sheets": 11,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_040_03",
+"class": 5,
+"items": 40,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_040_04",
+"class": 5,
+"items": 40,
+"sheets": 13,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_040_05",
+"class": 5,
+"items": 40,
+"sheets": 14,
+"bound": 12,
+"shelf": 15,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_040_06",
+"class": 5,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_040_07",
+"class": 5,
+"items": 40,
+"sheets": 11,
+"bound": 10,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_040_08",
+"class": 5,
+"items": 40,
+"sheets": 17,
+"bound": 15,
+"shelf": 17,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_040_09",
+"class": 5,
+"items": 40,
+"sheets": 10,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_040_10",
+"class": 5,
+"items": 40,
+"sheets": 11,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_01",
+"class": 5,
+"items": 60,
+"sheets": 21,
+"bound": 18,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_02",
+"class": 5,
+"items": 60,
+"sheets": 17,
+"bound": 15,
+"shelf": 18,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_060_03",
+"class": 5,
+"items": 60,
+"sheets": 20,
+"bound": 16,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_04",
+"class": 5,
+"items": 60,
+"sheets": 20,
+"bound": 18,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_05",
+"class": 5,
+"items": 60,
+"sheets": 16,
+"bound": 15,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_06",
+"class": 5,
+"items": 60,
+"sheets": 17,
+"bound": 14,
+"shelf": 17,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_07",
+"class": 5,
+"items": 60,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_08",
+"class": 5,
+"items": 60,
+"sheets": 20,
+"bound": 18,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_060_09",
+"class": 5,
+"items": 60,
+"sheets": 17,
+"bound": 15,
+"shelf": 18,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_060_10",
+"class": 5,
+"items": 60,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_01",
+"class": 5,
+"items": 80,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_02",
+"class": 5,
+"items": 80,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.11,
+"valid": true
+},
+{
+"name": "CLASS05_080_03",
+"class": 5,
+"items": 80,
+"sheets": 25,
+"bound": 22,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_04",
+"class": 5,
+"items": 80,
+"sheets": 25,
+"bound": 23,
+"shelf": 26,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_05",
+"class": 5,
+"items": 80,
+"sheets": 24,
+"bound": 20,
+"shelf": 25,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS05_080_06",
+"class": 5,
+"items": 80,
+"sheets": 27,
+"bound": 23,
+"shelf": 28,
+"seconds": 8.03,
+"valid": true
+},
+{
+"name": "CLASS05_080_07",
+"class": 5,
+"items": 80,
+"sheets": 29,
+"bound": 24,
+"shelf": 29,
+"seconds": 8.83,
+"valid": true
+},
+{
+"name": "CLASS05_080_08",
+"class": 5,
+"items": 80,
+"sheets": 28,
+"bound": 24,
+"shelf": 29,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_09",
+"class": 5,
+"items": 80,
+"sheets": 28,
+"bound": 24,
+"shelf": 29,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_080_10",
+"class": 5,
+"items": 80,
+"sheets": 25,
+"bound": 21,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS05_100_01",
+"class": 5,
+"items": 100,
+"sheets": 26,
+"bound": 23,
+"shelf": 26,
+"seconds": 10.58,
+"valid": true
+},
+{
+"name": "CLASS05_100_02",
+"class": 5,
+"items": 100,
+"sheets": 31,
+"bound": 27,
+"shelf": 31,
+"seconds": 10.43,
+"valid": true
+},
+{
+"name": "CLASS05_100_03",
+"class": 5,
+"items": 100,
+"sheets": 26,
+"bound": 23,
+"shelf": 26,
+"seconds": 10.79,
+"valid": true
+},
+{
+"name": "CLASS05_100_04",
+"class": 5,
+"items": 100,
+"sheets": 28,
+"bound": 25,
+"shelf": 28,
+"seconds": 10.86,
+"valid": true
+},
+{
+"name": "CLASS05_100_05",
+"class": 5,
+"items": 100,
+"sheets": 31,
+"bound": 27,
+"shelf": 31,
+"seconds": 10.97,
+"valid": true
+},
+{
+"name": "CLASS05_100_06",
+"class": 5,
+"items": 100,
+"sheets": 36,
+"bound": 31,
+"shelf": 36,
+"seconds": 11.83,
+"valid": true
+},
+{
+"name": "CLASS05_100_07",
+"class": 5,
+"items": 100,
+"sheets": 27,
+"bound": 24,
+"shelf": 27,
+"seconds": 10.98,
+"valid": true
+},
+{
+"name": "CLASS05_100_08",
+"class": 5,
+"items": 100,
+"sheets": 31,
+"bound": 27,
+"shelf": 31,
+"seconds": 10.35,
+"valid": true
+},
+{
+"name": "CLASS05_100_09",
+"class": 5,
+"items": 100,
+"sheets": 29,
+"bound": 25,
+"shelf": 29,
+"seconds": 10.21,
+"valid": true
+},
+{
+"name": "CLASS05_100_10",
+"class": 5,
+"items": 100,
+"sheets": 37,
+"bound": 33,
+"shelf": 37,
+"seconds": 8.97,
+"valid": true
+},
+{
+"name": "CLASS06_020_01",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_020_02",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_03",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_04",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_05",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_06",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_07",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_08",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_09",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_020_10",
+"class": 6,
+"items": 20,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS06_040_01",
+"class": 6,
+"items": 40,
+"sheets": 1,
+"bound": 1,
+"shelf": 1,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_02",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 5.92,
+"valid": true
+},
+{
+"name": "CLASS06_040_03",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_04",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_05",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_06",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 7.12,
+"valid": true
+},
+{
+"name": "CLASS06_040_07",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_08",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_040_09",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 7.78,
+"valid": true
+},
+{
+"name": "CLASS06_040_10",
+"class": 6,
+"items": 40,
+"sheets": 2,
+"bound": 1,
+"shelf": 2,
+"seconds": 8.16,
+"valid": true
+},
+{
+"name": "CLASS06_060_01",
+"class": 6,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 7.94,
+"valid": true
+},
+{
+"name": "CLASS06_060_02",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_03",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_04",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_05",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_06",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_07",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_060_08",
+"class": 6,
+"items": 60,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 8.09,
+"valid": true
+},
+{
+"name": "CLASS06_060_09",
+"class": 6,
+"items": 60,
+"sheets": 2,
+"bound": 2,
+"shelf": 2,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_060_10",
+"class": 6,
+"items": 60,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_01",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_02",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_03",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_04",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_05",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS06_080_06",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_07",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_08",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_09",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_080_10",
+"class": 6,
+"items": 80,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_01",
+"class": 6,
+"items": 100,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_02",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 8.37,
+"valid": true
+},
+{
+"name": "CLASS06_100_03",
+"class": 6,
+"items": 100,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_04",
+"class": 6,
+"items": 100,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_05",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 7.69,
+"valid": true
+},
+{
+"name": "CLASS06_100_06",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_07",
+"class": 6,
+"items": 100,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS06_100_08",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 7.61,
+"valid": true
+},
+{
+"name": "CLASS06_100_09",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 3,
+"shelf": 4,
+"seconds": 8.38,
+"valid": true
+},
+{
+"name": "CLASS06_100_10",
+"class": 6,
+"items": 100,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS07_020_01",
+"class": 7,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 0.18,
+"valid": true
+},
+{
+"name": "CLASS07_020_02",
+"class": 7,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 5,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_03",
+"class": 7,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 7.71,
+"valid": true
+},
+{
+"name": "CLASS07_020_04",
+"class": 7,
+"items": 20,
+"sheets": 7,
+"bound": 7,
+"shelf": 7,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_05",
+"class": 7,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 6,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_06",
+"class": 7,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_07",
+"class": 7,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_08",
+"class": 7,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_020_09",
+"class": 7,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 7,
+"seconds": 0.66,
+"valid": true
+},
+{
+"name": "CLASS07_020_10",
+"class": 7,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 10.03,
+"valid": true
+},
+{
+"name": "CLASS07_040_01",
+"class": 7,
+"items": 40,
+"sheets": 10,
+"bound": 10,
+"shelf": 11,
+"seconds": 3.25,
+"valid": true
+},
+{
+"name": "CLASS07_040_02",
+"class": 7,
+"items": 40,
+"sheets": 13,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS07_040_03",
+"class": 7,
+"items": 40,
+"sheets": 10,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_040_04",
+"class": 7,
+"items": 40,
+"sheets": 14,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_040_05",
+"class": 7,
+"items": 40,
+"sheets": 10,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_040_06",
+"class": 7,
+"items": 40,
+"sheets": 12,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS07_040_07",
+"class": 7,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_040_08",
+"class": 7,
+"items": 40,
+"sheets": 12,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_040_09",
+"class": 7,
+"items": 40,
+"sheets": 8,
+"bound": 8,
+"shelf": 9,
+"seconds": 3.33,
+"valid": true
+},
+{
+"name": "CLASS07_040_10",
+"class": 7,
+"items": 40,
+"sheets": 13,
+"bound": 13,
+"shelf": 13,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS07_060_01",
+"class": 7,
+"items": 60,
+"sheets": 18,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_060_02",
+"class": 7,
+"items": 60,
+"sheets": 14,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS07_060_03",
+"class": 7,
+"items": 60,
+"sheets": 17,
+"bound": 16,
+"shelf": 18,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS07_060_04",
+"class": 7,
+"items": 60,
+"sheets": 15,
+"bound": 14,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_060_05",
+"class": 7,
+"items": 60,
+"sheets": 15,
+"bound": 14,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_060_06",
+"class": 7,
+"items": 60,
+"sheets": 15,
+"bound": 15,
+"shelf": 15,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS07_060_07",
+"class": 7,
+"items": 60,
+"sheets": 15,
+"bound": 15,
+"shelf": 15,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS07_060_08",
+"class": 7,
+"items": 60,
+"sheets": 18,
+"bound": 15,
+"shelf": 18,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_060_09",
+"class": 7,
+"items": 60,
+"sheets": 15,
+"bound": 13,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_060_10",
+"class": 7,
+"items": 60,
+"sheets": 20,
+"bound": 17,
+"shelf": 20,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_01",
+"class": 7,
+"items": 80,
+"sheets": 21,
+"bound": 19,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_02",
+"class": 7,
+"items": 80,
+"sheets": 25,
+"bound": 24,
+"shelf": 26,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS07_080_03",
+"class": 7,
+"items": 80,
+"sheets": 21,
+"bound": 19,
+"shelf": 21,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS07_080_04",
+"class": 7,
+"items": 80,
+"sheets": 22,
+"bound": 20,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_05",
+"class": 7,
+"items": 80,
+"sheets": 24,
+"bound": 23,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_06",
+"class": 7,
+"items": 80,
+"sheets": 24,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_07",
+"class": 7,
+"items": 80,
+"sheets": 25,
+"bound": 23,
+"shelf": 26,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_08",
+"class": 7,
+"items": 80,
+"sheets": 23,
+"bound": 22,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_09",
+"class": 7,
+"items": 80,
+"sheets": 24,
+"bound": 23,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_080_10",
+"class": 7,
+"items": 80,
+"sheets": 25,
+"bound": 23,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_01",
+"class": 7,
+"items": 100,
+"sheets": 28,
+"bound": 25,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_02",
+"class": 7,
+"items": 100,
+"sheets": 28,
+"bound": 25,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_03",
+"class": 7,
+"items": 100,
+"sheets": 25,
+"bound": 24,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_04",
+"class": 7,
+"items": 100,
+"sheets": 27,
+"bound": 26,
+"shelf": 27,
+"seconds": 9.99,
+"valid": true
+},
+{
+"name": "CLASS07_100_05",
+"class": 7,
+"items": 100,
+"sheets": 25,
+"bound": 24,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_06",
+"class": 7,
+"items": 100,
+"sheets": 30,
+"bound": 26,
+"shelf": 30,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_07",
+"class": 7,
+"items": 100,
+"sheets": 28,
+"bound": 26,
+"shelf": 28,
+"seconds": 10.03,
+"valid": true
+},
+{
+"name": "CLASS07_100_08",
+"class": 7,
+"items": 100,
+"sheets": 30,
+"bound": 28,
+"shelf": 30,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_09",
+"class": 7,
+"items": 100,
+"sheets": 27,
+"bound": 24,
+"shelf": 27,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS07_100_10",
+"class": 7,
+"items": 100,
+"sheets": 32,
+"bound": 29,
+"shelf": 32,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_01",
+"class": 8,
+"items": 20,
+"sheets": 6,
+"bound": 6,
+"shelf": 7,
+"seconds": 0.95,
+"valid": true
+},
+{
+"name": "CLASS08_020_02",
+"class": 8,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 8,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_03",
+"class": 8,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 0.37,
+"valid": true
+},
+{
+"name": "CLASS08_020_04",
+"class": 8,
+"items": 20,
+"sheets": 7,
+"bound": 7,
+"shelf": 7,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_05",
+"class": 8,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS08_020_06",
+"class": 8,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_07",
+"class": 8,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_08",
+"class": 8,
+"items": 20,
+"sheets": 5,
+"bound": 5,
+"shelf": 6,
+"seconds": 0.41,
+"valid": true
+},
+{
+"name": "CLASS08_020_09",
+"class": 8,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_020_10",
+"class": 8,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 5,
+"seconds": 0.4,
+"valid": true
+},
+{
+"name": "CLASS08_040_01",
+"class": 8,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_02",
+"class": 8,
+"items": 40,
+"sheets": 14,
+"bound": 13,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_03",
+"class": 8,
+"items": 40,
+"sheets": 11,
+"bound": 10,
+"shelf": 11,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS08_040_04",
+"class": 8,
+"items": 40,
+"sheets": 12,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_05",
+"class": 8,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_06",
+"class": 8,
+"items": 40,
+"sheets": 13,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_07",
+"class": 8,
+"items": 40,
+"sheets": 11,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_08",
+"class": 8,
+"items": 40,
+"sheets": 11,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_09",
+"class": 8,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_040_10",
+"class": 8,
+"items": 40,
+"sheets": 13,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_01",
+"class": 8,
+"items": 60,
+"sheets": 18,
+"bound": 17,
+"shelf": 18,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_02",
+"class": 8,
+"items": 60,
+"sheets": 17,
+"bound": 16,
+"shelf": 17,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS08_060_03",
+"class": 8,
+"items": 60,
+"sheets": 17,
+"bound": 15,
+"shelf": 17,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS08_060_04",
+"class": 8,
+"items": 60,
+"sheets": 15,
+"bound": 14,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_05",
+"class": 8,
+"items": 60,
+"sheets": 14,
+"bound": 14,
+"shelf": 15,
+"seconds": 7.88,
+"valid": true
+},
+{
+"name": "CLASS08_060_06",
+"class": 8,
+"items": 60,
+"sheets": 16,
+"bound": 14,
+"shelf": 16,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_07",
+"class": 8,
+"items": 60,
+"sheets": 14,
+"bound": 13,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_08",
+"class": 8,
+"items": 60,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_09",
+"class": 8,
+"items": 60,
+"sheets": 17,
+"bound": 16,
+"shelf": 18,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_060_10",
+"class": 8,
+"items": 60,
+"sheets": 18,
+"bound": 17,
+"shelf": 19,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_01",
+"class": 8,
+"items": 80,
+"sheets": 22,
+"bound": 22,
+"shelf": 23,
+"seconds": 5.3,
+"valid": true
+},
+{
+"name": "CLASS08_080_02",
+"class": 8,
+"items": 80,
+"sheets": 24,
+"bound": 22,
+"shelf": 25,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_03",
+"class": 8,
+"items": 80,
+"sheets": 21,
+"bound": 19,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_04",
+"class": 8,
+"items": 80,
+"sheets": 21,
+"bound": 18,
+"shelf": 21,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_05",
+"class": 8,
+"items": 80,
+"sheets": 28,
+"bound": 26,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_06",
+"class": 8,
+"items": 80,
+"sheets": 23,
+"bound": 22,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_07",
+"class": 8,
+"items": 80,
+"sheets": 22,
+"bound": 21,
+"shelf": 23,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_08",
+"class": 8,
+"items": 80,
+"sheets": 23,
+"bound": 21,
+"shelf": 24,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_09",
+"class": 8,
+"items": 80,
+"sheets": 22,
+"bound": 19,
+"shelf": 22,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_080_10",
+"class": 8,
+"items": 80,
+"sheets": 25,
+"bound": 24,
+"shelf": 26,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_01",
+"class": 8,
+"items": 100,
+"sheets": 27,
+"bound": 25,
+"shelf": 27,
+"seconds": 10.09,
+"valid": true
+},
+{
+"name": "CLASS08_100_02",
+"class": 8,
+"items": 100,
+"sheets": 28,
+"bound": 26,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_03",
+"class": 8,
+"items": 100,
+"sheets": 24,
+"bound": 24,
+"shelf": 25,
+"seconds": 7.76,
+"valid": true
+},
+{
+"name": "CLASS08_100_04",
+"class": 8,
+"items": 100,
+"sheets": 31,
+"bound": 30,
+"shelf": 31,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_05",
+"class": 8,
+"items": 100,
+"sheets": 30,
+"bound": 28,
+"shelf": 30,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_06",
+"class": 8,
+"items": 100,
+"sheets": 28,
+"bound": 24,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_07",
+"class": 8,
+"items": 100,
+"sheets": 27,
+"bound": 25,
+"shelf": 27,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_08",
+"class": 8,
+"items": 100,
+"sheets": 30,
+"bound": 28,
+"shelf": 30,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_09",
+"class": 8,
+"items": 100,
+"sheets": 28,
+"bound": 25,
+"shelf": 28,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS08_100_10",
+"class": 8,
+"items": 100,
+"sheets": 34,
+"bound": 30,
+"shelf": 34,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_01",
+"class": 9,
+"items": 20,
+"sheets": 19,
+"bound": 18,
+"shelf": 19,
+"seconds": 5.61,
+"valid": true
+},
+{
+"name": "CLASS09_020_02",
+"class": 9,
+"items": 20,
+"sheets": 13,
+"bound": 12,
+"shelf": 13,
+"seconds": 5.53,
+"valid": true
+},
+{
+"name": "CLASS09_020_03",
+"class": 9,
+"items": 20,
+"sheets": 14,
+"bound": 13,
+"shelf": 15,
+"seconds": 5.57,
+"valid": true
+},
+{
+"name": "CLASS09_020_04",
+"class": 9,
+"items": 20,
+"sheets": 16,
+"bound": 16,
+"shelf": 16,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_05",
+"class": 9,
+"items": 20,
+"sheets": 16,
+"bound": 16,
+"shelf": 16,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_06",
+"class": 9,
+"items": 20,
+"sheets": 14,
+"bound": 13,
+"shelf": 15,
+"seconds": 5.59,
+"valid": true
+},
+{
+"name": "CLASS09_020_07",
+"class": 9,
+"items": 20,
+"sheets": 9,
+"bound": 9,
+"shelf": 9,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_08",
+"class": 9,
+"items": 20,
+"sheets": 14,
+"bound": 14,
+"shelf": 14,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_09",
+"class": 9,
+"items": 20,
+"sheets": 15,
+"bound": 15,
+"shelf": 15,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS09_020_10",
+"class": 9,
+"items": 20,
+"sheets": 13,
+"bound": 12,
+"shelf": 13,
+"seconds": 5.53,
+"valid": true
+},
+{
+"name": "CLASS09_040_01",
+"class": 9,
+"items": 40,
+"sheets": 25,
+"bound": 23,
+"shelf": 26,
+"seconds": 5.9,
+"valid": true
+},
+{
+"name": "CLASS09_040_02",
+"class": 9,
+"items": 40,
+"sheets": 32,
+"bound": 31,
+"shelf": 32,
+"seconds": 5.66,
+"valid": true
+},
+{
+"name": "CLASS09_040_03",
+"class": 9,
+"items": 40,
+"sheets": 29,
+"bound": 27,
+"shelf": 30,
+"seconds": 5.89,
+"valid": true
+},
+{
+"name": "CLASS09_040_04",
+"class": 9,
+"items": 40,
+"sheets": 31,
+"bound": 30,
+"shelf": 31,
+"seconds": 6.25,
+"valid": true
+},
+{
+"name": "CLASS09_040_05",
+"class": 9,
+"items": 40,
+"sheets": 27,
+"bound": 26,
+"shelf": 27,
+"seconds": 6.02,
+"valid": true
+},
+{
+"name": "CLASS09_040_06",
+"class": 9,
+"items": 40,
+"sheets": 29,
+"bound": 27,
+"shelf": 29,
+"seconds": 6.25,
+"valid": true
+},
+{
+"name": "CLASS09_040_07",
+"class": 9,
+"items": 40,
+"sheets": 24,
+"bound": 23,
+"shelf": 24,
+"seconds": 5.84,
+"valid": true
+},
+{
+"name": "CLASS09_040_08",
+"class": 9,
+"items": 40,
+"sheets": 26,
+"bound": 24,
+"shelf": 26,
+"seconds": 6.05,
+"valid": true
+},
+{
+"name": "CLASS09_040_09",
+"class": 9,
+"items": 40,
+"sheets": 21,
+"bound": 21,
+"shelf": 21,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS09_040_10",
+"class": 9,
+"items": 40,
+"sheets": 34,
+"bound": 31,
+"shelf": 34,
+"seconds": 6.13,
+"valid": true
+},
+{
+"name": "CLASS09_060_01",
+"class": 9,
+"items": 60,
+"sheets": 46,
+"bound": 44,
+"shelf": 47,
+"seconds": 7.09,
+"valid": true
+},
+{
+"name": "CLASS09_060_02",
+"class": 9,
+"items": 60,
+"sheets": 45,
+"bound": 42,
+"shelf": 46,
+"seconds": 6.95,
+"valid": true
+},
+{
+"name": "CLASS09_060_03",
+"class": 9,
+"items": 60,
+"sheets": 46,
+"bound": 45,
+"shelf": 47,
+"seconds": 6.92,
+"valid": true
+},
+{
+"name": "CLASS09_060_04",
+"class": 9,
+"items": 60,
+"sheets": 44,
+"bound": 42,
+"shelf": 44,
+"seconds": 7.68,
+"valid": true
+},
+{
+"name": "CLASS09_060_05",
+"class": 9,
+"items": 60,
+"sheets": 41,
+"bound": 40,
+"shelf": 41,
+"seconds": 6.15,
+"valid": true
+},
+{
+"name": "CLASS09_060_06",
+"class": 9,
+"items": 60,
+"sheets": 37,
+"bound": 37,
+"shelf": 37,
+"seconds": 0.02,
+"valid": true
+},
+{
+"name": "CLASS09_060_07",
+"class": 9,
+"items": 60,
+"sheets": 41,
+"bound": 39,
+"shelf": 41,
+"seconds": 5.73,
+"valid": true
+},
+{
+"name": "CLASS09_060_08",
+"class": 9,
+"items": 60,
+"sheets": 47,
+"bound": 46,
+"shelf": 47,
+"seconds": 8.39,
+"valid": true
+},
+{
+"name": "CLASS09_060_09",
+"class": 9,
+"items": 60,
+"sheets": 45,
+"bound": 44,
+"shelf": 46,
+"seconds": 6.72,
+"valid": true
+},
+{
+"name": "CLASS09_060_10",
+"class": 9,
+"items": 60,
+"sheets": 45,
+"bound": 45,
+"shelf": 45,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS09_080_01",
+"class": 9,
+"items": 80,
+"sheets": 59,
+"bound": 57,
+"shelf": 59,
+"seconds": 6.98,
+"valid": true
+},
+{
+"name": "CLASS09_080_02",
+"class": 9,
+"items": 80,
+"sheets": 58,
+"bound": 55,
+"shelf": 59,
+"seconds": 9.14,
+"valid": true
+},
+{
+"name": "CLASS09_080_03",
+"class": 9,
+"items": 80,
+"sheets": 57,
+"bound": 55,
+"shelf": 57,
+"seconds": 7.21,
+"valid": true
+},
+{
+"name": "CLASS09_080_04",
+"class": 9,
+"items": 80,
+"sheets": 53,
+"bound": 51,
+"shelf": 53,
+"seconds": 6.18,
+"valid": true
+},
+{
+"name": "CLASS09_080_05",
+"class": 9,
+"items": 80,
+"sheets": 62,
+"bound": 59,
+"shelf": 62,
+"seconds": 7.8,
+"valid": true
+},
+{
+"name": "CLASS09_080_06",
+"class": 9,
+"items": 80,
+"sheets": 62,
+"bound": 61,
+"shelf": 62,
+"seconds": 6.35,
+"valid": true
+},
+{
+"name": "CLASS09_080_07",
+"class": 9,
+"items": 80,
+"sheets": 59,
+"bound": 59,
+"shelf": 60,
+"seconds": 6.7,
+"valid": true
+},
+{
+"name": "CLASS09_080_08",
+"class": 9,
+"items": 80,
+"sheets": 58,
+"bound": 55,
+"shelf": 58,
+"seconds": 7.42,
+"valid": true
+},
+{
+"name": "CLASS09_080_09",
+"class": 9,
+"items": 80,
+"sheets": 49,
+"bound": 47,
+"shelf": 49,
+"seconds": 7.13,
+"valid": true
+},
+{
+"name": "CLASS09_080_10",
+"class": 9,
+"items": 80,
+"sheets": 60,
+"bound": 57,
+"shelf": 61,
+"seconds": 9.92,
+"valid": true
+},
+{
+"name": "CLASS09_100_01",
+"class": 9,
+"items": 100,
+"sheets": 71,
+"bound": 70,
+"shelf": 71,
+"seconds": 12.51,
+"valid": true
+},
+{
+"name": "CLASS09_100_02",
+"class": 9,
+"items": 100,
+"sheets": 64,
+"bound": 62,
+"shelf": 65,
+"seconds": 13.08,
+"valid": true
+},
+{
+"name": "CLASS09_100_03",
+"class": 9,
+"items": 100,
+"sheets": 68,
+"bound": 67,
+"shelf": 69,
+"seconds": 13.0,
+"valid": true
+},
+{
+"name": "CLASS09_100_04",
+"class": 9,
+"items": 100,
+"sheets": 78,
+"bound": 75,
+"shelf": 78,
+"seconds": 13.59,
+"valid": true
+},
+{
+"name": "CLASS09_100_05",
+"class": 9,
+"items": 100,
+"sheets": 65,
+"bound": 62,
+"shelf": 65,
+"seconds": 13.67,
+"valid": true
+},
+{
+"name": "CLASS09_100_06",
+"class": 9,
+"items": 100,
+"sheets": 71,
+"bound": 70,
+"shelf": 71,
+"seconds": 12.04,
+"valid": true
+},
+{
+"name": "CLASS09_100_07",
+"class": 9,
+"items": 100,
+"sheets": 66,
+"bound": 65,
+"shelf": 67,
+"seconds": 11.99,
+"valid": true
+},
+{
+"name": "CLASS09_100_08",
+"class": 9,
+"items": 100,
+"sheets": 74,
+"bound": 70,
+"shelf": 74,
+"seconds": 13.6,
+"valid": true
+},
+{
+"name": "CLASS09_100_09",
+"class": 9,
+"items": 100,
+"sheets": 66,
+"bound": 64,
+"shelf": 67,
+"seconds": 13.21,
+"valid": true
+},
+{
+"name": "CLASS09_100_10",
+"class": 9,
+"items": 100,
+"sheets": 72,
+"bound": 70,
+"shelf": 72,
+"seconds": 14.26,
+"valid": true
+},
+{
+"name": "CLASS10_020_01",
+"class": 10,
+"items": 20,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 5.53,
+"valid": true
+},
+{
+"name": "CLASS10_020_02",
+"class": 10,
+"items": 20,
+"sheets": 3,
+"bound": 3,
+"shelf": 3,
+"seconds": 0.0,
+"valid": true
+},
+{
+"name": "CLASS10_020_03",
+"class": 10,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 5.86,
+"valid": true
+},
+{
+"name": "CLASS10_020_04",
+"class": 10,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 5.79,
+"valid": true
+},
+{
+"name": "CLASS10_020_05",
+"class": 10,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS10_020_06",
+"class": 10,
+"items": 20,
+"sheets": 4,
+"bound": 4,
+"shelf": 4,
+"seconds": 0.01,
+"valid": true
+},
+{
+"name": "CLASS10_020_07",
+"class": 10,
+"items": 20,
+"sheets": 5,
+"bound": 4,
+"shelf": 5,
+"seconds": 5.71,
+"valid": true
+},
+{
+"name": "CLASS10_020_08",
+"class": 10,
+"items": 20,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 5.62,
+"valid": true
+},
+{
+"name": "CLASS10_020_09",
+"class": 10,
+"items": 20,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 6.56,
+"valid": true
+},
+{
+"name": "CLASS10_020_10",
+"class": 10,
+"items": 20,
+"sheets": 3,
+"bound": 2,
+"shelf": 3,
+"seconds": 6.68,
+"valid": true
+},
+{
+"name": "CLASS10_040_01",
+"class": 10,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_02",
+"class": 10,
+"items": 40,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_03",
+"class": 10,
+"items": 40,
+"sheets": 10,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_04",
+"class": 10,
+"items": 40,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_05",
+"class": 10,
+"items": 40,
+"sheets": 7,
+"bound": 6,
+"shelf": 7,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS10_040_06",
+"class": 10,
+"items": 40,
+"sheets": 6,
+"bound": 5,
+"shelf": 6,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_07",
+"class": 10,
+"items": 40,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_08",
+"class": 10,
+"items": 40,
+"sheets": 7,
+"bound": 7,
+"shelf": 8,
+"seconds": 2.46,
+"valid": true
+},
+{
+"name": "CLASS10_040_09",
+"class": 10,
+"items": 40,
+"sheets": 9,
+"bound": 7,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_040_10",
+"class": 10,
+"items": 40,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_01",
+"class": 10,
+"items": 60,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS10_060_02",
+"class": 10,
+"items": 60,
+"sheets": 13,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_03",
+"class": 10,
+"items": 60,
+"sheets": 12,
+"bound": 11,
+"shelf": 13,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_04",
+"class": 10,
+"items": 60,
+"sheets": 8,
+"bound": 7,
+"shelf": 8,
+"seconds": 7.06,
+"valid": true
+},
+{
+"name": "CLASS10_060_05",
+"class": 10,
+"items": 60,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_06",
+"class": 10,
+"items": 60,
+"sheets": 14,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_07",
+"class": 10,
+"items": 60,
+"sheets": 11,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_08",
+"class": 10,
+"items": 60,
+"sheets": 11,
+"bound": 9,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_09",
+"class": 10,
+"items": 60,
+"sheets": 10,
+"bound": 8,
+"shelf": 10,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_060_10",
+"class": 10,
+"items": 60,
+"sheets": 9,
+"bound": 8,
+"shelf": 9,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_080_01",
+"class": 10,
+"items": 80,
+"sheets": 14,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.01,
+"valid": true
+},
+{
+"name": "CLASS10_080_02",
+"class": 10,
+"items": 80,
+"sheets": 12,
+"bound": 10,
+"shelf": 12,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_080_03",
+"class": 10,
+"items": 80,
+"sheets": 12,
+"bound": 11,
+"shelf": 12,
+"seconds": 8.35,
+"valid": true
+},
+{
+"name": "CLASS10_080_04",
+"class": 10,
+"items": 80,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.02,
+"valid": true
+},
+{
+"name": "CLASS10_080_05",
+"class": 10,
+"items": 80,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_080_06",
+"class": 10,
+"items": 80,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 9.14,
+"valid": true
+},
+{
+"name": "CLASS10_080_07",
+"class": 10,
+"items": 80,
+"sheets": 16,
+"bound": 14,
+"shelf": 16,
+"seconds": 9.4,
+"valid": true
+},
+{
+"name": "CLASS10_080_08",
+"class": 10,
+"items": 80,
+"sheets": 11,
+"bound": 10,
+"shelf": 11,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_080_09",
+"class": 10,
+"items": 80,
+"sheets": 14,
+"bound": 12,
+"shelf": 14,
+"seconds": 10.0,
+"valid": true
+},
+{
+"name": "CLASS10_080_10",
+"class": 10,
+"items": 80,
+"sheets": 16,
+"bound": 14,
+"shelf": 16,
+"seconds": 7.86,
+"valid": true
+},
+{
+"name": "CLASS10_100_01",
+"class": 10,
+"items": 100,
+"sheets": 16,
+"bound": 14,
+"shelf": 16,
+"seconds": 8.1,
+"valid": true
+},
+{
+"name": "CLASS10_100_02",
+"class": 10,
+"items": 100,
+"sheets": 17,
+"bound": 15,
+"shelf": 17,
+"seconds": 8.29,
+"valid": true
+},
+{
+"name": "CLASS10_100_03",
+"class": 10,
+"items": 100,
+"sheets": 18,
+"bound": 15,
+"shelf": 18,
+"seconds": 8.12,
+"valid": true
+},
+{
+"name": "CLASS10_100_04",
+"class": 10,
+"items": 100,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 7.77,
+"valid": true
+},
+{
+"name": "CLASS10_100_05",
+"class": 10,
+"items": 100,
+"sheets": 19,
+"bound": 17,
+"shelf": 19,
+"seconds": 8.59,
+"valid": true
+},
+{
+"name": "CLASS10_100_06",
+"class": 10,
+"items": 100,
+"sheets": 14,
+"bound": 13,
+"shelf": 14,
+"seconds": 7.66,
+"valid": true
+},
+{
+"name": "CLASS10_100_07",
+"class": 10,
+"items": 100,
+"sheets": 15,
+"bound": 13,
+"shelf": 15,
+"seconds": 7.86,
+"valid": true
+},
+{
+"name": "CLASS10_100_08",
+"class": 10,
+"items": 100,
+"sheets": 20,
+"bound": 18,
+"shelf": 20,
+"seconds": 8.99,
+"valid": true
+},
+{
+"name": "CLASS10_100_09",
+"class": 10,
+"items": 100,
+"sheets": 17,
+"bound": 16,
+"shelf": 17,
+"seconds": 8.01,
+"valid": true
+},
+{
+"name": "CLASS10_100_10",
+"class": 10,
+"items": 100,
+"sheets": 16,
+"bound": 15,
+"shelf": 16,
+"seconds": 7.94,
+"valid": true
+}
+],
+"seconds_per_instance": 10.0,
+"total_seconds": 1598,
+"machine": "2 cores, 2 instances at a time, one thread each"
+}
